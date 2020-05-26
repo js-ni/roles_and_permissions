@@ -15,4 +15,5 @@
 | Servicio | Url |
 | --- | --- |
 | Instagram | [Enlace](https://www.instagram.com/javascriptnicaragua/)
+| Twitter | [Enlace](https://twitter.com/javascriptnicaragua/)
 | Gmail | [Enlace](https://mail.google.com/mail/u/0/)

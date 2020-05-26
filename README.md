@@ -8,6 +8,7 @@
 | GitHub | Member | [Editar](https://github.com/orgs/js-ni/teams/organizers/members)
 | WhatsApp | Admin | [Editar](https://web.whatsapp.com/)
 | Facebook | Editor | [Editar](https://www.facebook.com/JavaScriptNicaragua/settings/?tab=admin_roles)
+| Google Calendar | Quitar de listas |
 
 
 ## Cuentas (Con usuario y contraseña)

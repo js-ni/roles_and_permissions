@@ -15,4 +15,4 @@
 | Servicio | Url |
 | --- | --- |
 | Instagram | [Enlace](https://www.instagram.com/javascriptnicaragua/)
-| Gmail | [Enlace](https://github.com/orgs/js-ni/teams/organizers/members)
+| Gmail | [Enlace](https://mail.google.com/mail/u/0/)
